@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Dinesh K Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Dinesh K
 
 ### Python Full Stack Developer | AI Developer
