@@ -41,8 +41,7 @@ Building Intelligent Business Software with Python, Django & AI
 
 ## Languages
 
-- Python <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2abead15-fb1f-4334-a423-75a472533289" />
-
+- Python
 - JavaScript
 - HTML5
 - CSS3
