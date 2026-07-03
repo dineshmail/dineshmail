@@ -103,7 +103,7 @@ Automation scripts for daily business tasks.
 # 📫 Connect
 
 📧 Email:
-your-email@gmail.com
+d860848@gmail.com
 
 🌐 Portfolio:
 Coming Soon
