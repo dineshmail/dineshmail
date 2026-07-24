@@ -114,6 +114,7 @@ Modern E-Commerce Platform built using Django.
 ### 🌐 Personal Portfolio
 
 Professional Developer Portfolio.
+version 1- https://dineshmail.github.io/portfolio-v1/
 
 ---
 
@@ -203,9 +204,9 @@ Automation scripts for business and productivity.
 
 # 📫 Connect
 
-📧 Email: **your-email@gmail.com**
+📧 Email: **d860848@gmail.com**
 
-🌐 Portfolio: **Coming Soon**
+🌐 Portfolio: version 1- https://dineshmail.github.io/portfolio-v1/
 
 💼 LinkedIn: **Coming Soon**
 
